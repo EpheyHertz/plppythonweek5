@@ -1,0 +1,6 @@
+Hello, this is the first line.
+Python file handling is interesting!
+1234567890 - This is a line with numbers.
+This is the fourth line, appended.
+Appending more text is easy.
+Let's append some numbers again: 987654321.
